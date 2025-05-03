@@ -2,3 +2,6 @@ The rock paper scissors file will simulate two players playing rick paper scisso
 The coin toss file will simulate ten coin tosses and disply the results of each toss.
 The number generator file will roll a dice an allow two players to simulate a dice game where the player who rolls the bigger number will win. The code will also ask the player if they want to roll again and if the input is y the game will play again. if the input is n the program will quit. 
 The birthday file will let the user enter friends birthdays and that will fill out a dictionary in the program. The user can then ask the program to lookup a name and it will tell them the birthday that was entered with that name. The program can also delete birthdays from the dictionary and also change them. 
+Assighnment 6 is a calculator with a GUI component that will display a second page on the screen that allos the user to input numbers and do addition, subtraction, multiplication, and division. 
+Assighnment 7 is a dice roll game where two players can play and whoever rolls the higher number will win the round. It keeps track of the score over how ever many rounds the users want to play.
+Bug collector is a program to keep track of how many bugs the collector gets each day and counts them at the end and displays the amount. 
